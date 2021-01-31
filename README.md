@@ -1,3 +1,3 @@
 Align Java GUI Task.
 
-Creates base structure for aligment.
+Creates base structure for alignment.
